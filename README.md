@@ -1,1 +1,1 @@
-# starter
+<h1 align="center">My Personal Git & Development Workflow Blueprint</h1>
